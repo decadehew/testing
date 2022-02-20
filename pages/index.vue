@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        mt-demo, MT
+        mt-demo, MD
       </h1>
       <h2 class="subtitle">
         My geometric Nuxt.js project
